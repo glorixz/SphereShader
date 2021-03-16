@@ -2,6 +2,7 @@ If your browser prevents it, the html file can be displayed using Visual Studio 
 live server function. 
 
 Scroll to zoom in/out
+
 Drag to change camera angle
 
 Press L to change the light color
